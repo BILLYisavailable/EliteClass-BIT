@@ -1,5 +1,5 @@
 --- 
-title: "智班的小伙伴们"
+title: "拔尖班的小伙伴们"
 cascade:
     groupByYear: false
     showDate: false
